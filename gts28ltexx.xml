@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="hardware/sony/timekeep" name="LineageOS-UL/android_hardware_sony_timekeep" remote="github" revision="lineage-20.0" />
+  <!--<project path="hardware/sony/timekeep" name="LineageOS-UL/android_hardware_sony_timekeep" remote="github" revision="lineage-20.0" />-->
 
   <!-- DEVICES -->
   <project name="metterschlg/android_device_samsung_gts2-common-selinux" path="device/samsung/gts2-common" remote="github" revision="lineage-20" />
