@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <!--<project path="hardware/sony/timekeep" name="LineageOS-UL/android_hardware_sony_timekeep" remote="github" revision="lineage-20.0" />-->
-
   <!-- DEVICES -->
-  <project name="metterschlg/android_device_samsung_gts2-common-selinux" path="device/samsung/gts2-common" remote="github" revision="lineage-20" />
+  <project name="metterschlg/android_device_samsung_gts2-common-selinux" path="device/samsung/gts2-common" remote="github" revision="lineage-20-r22" />
   <project name="metterschlg/android_device_samsung_gts28ltexx" path="device/samsung/gts28ltexx" remote="github" revision="lineage-20" />
   <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-20" />
 
   <!-- KERNEL -->
-  <project name="metterschlg/android_kernel_samsung_universal5433" path="kernel/samsung/universal5433" remote="github" revision="lineage-20" />
+  <project name="metterschlg/android_kernel_samsung_universal5433" path="kernel/samsung/universal5433" remote="github" revision="lineage-20-r22" />
 
   <!-- VENDOR -->
-  <project name="metterschlg/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-20" />
+  <project name="metterschlg/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-20-r22" />
 
  <!-- Samsung Hardware Repo -->
   <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-20"/>
@@ -21,6 +19,6 @@
   <project name="LineageOS/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="github" revision="lineage-19.1" />
   <project name="LineageOS/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="github" revision="lineage-19.1" />
   <project name="LineageOS/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="github" revision="lineage-19.1" />
-  <project name="metterschlg/android_hardware_samsung_slsi_exynos5433" path="hardware/samsung_slsi/exynos5433" remote="github" revision="lineage-20" />
+  <project name="retiredtab/android_hardware_samsung_slsi_exynos5433-r22" path="hardware/samsung_slsi/exynos5433" remote="github" revision="20-r22" />
 
 </manifest>
